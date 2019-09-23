@@ -1,6 +1,6 @@
 # debiometricizer
 
-A project by @dabanus for allowing research teams on artificial intelligence approaches to generate massive image and video datasets without compromising personal rights and privacy of the persons in thoise datasets.
+A project by drabanus for allowing research teams on artificial intelligence approaches to generate massive image and video datasets without compromising personal rights and privacy of the persons in thoise datasets.
 
 # To do:
 
